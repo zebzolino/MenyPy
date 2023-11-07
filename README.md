@@ -4,6 +4,7 @@ This Python script allows you to search for products on Meny.no, a popular onlin
 
 ## Showcase
 ![image](https://github.com/zebzolino/MenyPy/assets/47001560/ddaa9a16-edf1-44d3-b920-0d2e26beaab8)
+![image](https://github.com/zebzolino/MenyPy/assets/47001560/150e1d69-e59f-4796-bc27-7c2f3f48e0a4)
 
 
 ## Features
