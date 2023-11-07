@@ -2,6 +2,10 @@
 
 This Python script allows you to search for products on Meny.no, a popular online grocery store in Norway. It uses the Meny.no product search API to fetch and display product information based on your search query. The script provides a convenient way to find and view product details without the need to access the website directly.
 
+## Showcase
+![image](https://github.com/zebzolino/MenyPy/assets/47001560/ddaa9a16-edf1-44d3-b920-0d2e26beaab8)
+
+
 ## Features
 
 - Search for products by entering a query.
