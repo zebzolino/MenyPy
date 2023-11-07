@@ -43,7 +43,7 @@ def search_meny(query):
             product_price = hit['pricePerUnit']
             product_url = f"https://meny.no{hit['slugifiedUrl']}"
 
-            # Format and print the product information with hacker-like IRC chat colors
+            # Format and print the product information with colors.
             print(f"{Fore.LIGHTYELLOW_EX}Product Name: {Fore.WHITE}{product_name}{Style.RESET_ALL}")
             print(f"{Fore.LIGHTYELLOW_EX}Product Price: {Fore.WHITE}{product_price} kr{Style.RESET_ALL}")
             print(f"{Fore.LIGHTYELLOW_EX}Product URL: {Fore.BLUE}{product_url}{Style.RESET_ALL}")
